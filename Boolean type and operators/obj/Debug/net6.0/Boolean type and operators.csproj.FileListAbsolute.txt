@@ -1,0 +1,15 @@
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Boolean type and operators\obj\Debug\net6.0\Boolean type and operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Boolean type and operators\obj\Debug\net6.0\Boolean type and operators.AssemblyInfoInputs.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Boolean type and operators\obj\Debug\net6.0\Boolean type and operators.AssemblyInfo.cs
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Boolean type and operators\obj\Debug\net6.0\Boolean type and operators.csproj.CoreCompileInputs.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Boolean type and operators\obj\Debug\net6.0\Boolean type and operators.sourcelink.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Boolean type and operators\bin\Debug\net6.0\Boolean type and operators.exe
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Boolean type and operators\bin\Debug\net6.0\Boolean type and operators.deps.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Boolean type and operators\bin\Debug\net6.0\Boolean type and operators.runtimeconfig.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Boolean type and operators\bin\Debug\net6.0\Boolean type and operators.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Boolean type and operators\bin\Debug\net6.0\Boolean type and operators.pdb
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Boolean type and operators\obj\Debug\net6.0\Boolean type and operators.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Boolean type and operators\obj\Debug\net6.0\refint\Boolean type and operators.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Boolean type and operators\obj\Debug\net6.0\Boolean type and operators.pdb
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Boolean type and operators\obj\Debug\net6.0\Boolean type and operators.genruntimeconfig.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Boolean type and operators\obj\Debug\net6.0\ref\Boolean type and operators.dll
