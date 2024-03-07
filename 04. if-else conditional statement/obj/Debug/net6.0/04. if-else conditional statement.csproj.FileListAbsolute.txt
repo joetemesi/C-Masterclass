@@ -1,0 +1,15 @@
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\04. if-else conditional statement\obj\Debug\net6.0\04. if-else conditional statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\04. if-else conditional statement\obj\Debug\net6.0\04. if-else conditional statement.AssemblyInfoInputs.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\04. if-else conditional statement\obj\Debug\net6.0\04. if-else conditional statement.AssemblyInfo.cs
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\04. if-else conditional statement\obj\Debug\net6.0\04. if-else conditional statement.csproj.CoreCompileInputs.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\04. if-else conditional statement\obj\Debug\net6.0\04. if-else conditional statement.sourcelink.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\04. if-else conditional statement\bin\Debug\net6.0\04. if-else conditional statement.exe
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\04. if-else conditional statement\bin\Debug\net6.0\04. if-else conditional statement.deps.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\04. if-else conditional statement\bin\Debug\net6.0\04. if-else conditional statement.runtimeconfig.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\04. if-else conditional statement\bin\Debug\net6.0\04. if-else conditional statement.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\04. if-else conditional statement\bin\Debug\net6.0\04. if-else conditional statement.pdb
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\04. if-else conditional statement\obj\Debug\net6.0\04. if-else conditional statement.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\04. if-else conditional statement\obj\Debug\net6.0\refint\04. if-else conditional statement.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\04. if-else conditional statement\obj\Debug\net6.0\04. if-else conditional statement.pdb
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\04. if-else conditional statement\obj\Debug\net6.0\04. if-else conditional statement.genruntimeconfig.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\04. if-else conditional statement\obj\Debug\net6.0\ref\04. if-else conditional statement.dll
