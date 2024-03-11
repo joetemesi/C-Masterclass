@@ -14,6 +14,31 @@ Console.WriteLine("[E]xit");
 //userInput = "ABC\n";
 //Console.WriteLine(userInput);
 
+string userInput = Console.ReadLine();
+
+
+if (userInput == "S" || userInput == "s")
+{
+    PrintSelectedOption("See all Todos");
+}
+    
+else if (userInput == "A" || userInput == "a")
+{
+    PrintSelectedOption("Add a Todo");
+}
+else if(userInput == "R" || userInput == "r")
+{
+    PrintSelectedOption("Remove a Todo");
+}
+if(userInput == "E" || userInput == "e") 
+{
+    PrintSelectedOption("Exit");
+}
+
+void PrintSelectedOption(string selectedOption)
+            {
+                Console.WriteLine("Selected Option: " + selectedOption);
+            }
 
 
 //int myNumber = 1;
@@ -21,9 +46,9 @@ Console.WriteLine("[E]xit");
 // myNumber = 123;
 //Console.WriteLine(myNumber);
 
-var userInput = Console.ReadLine(); ///implicit declaration
+//var userInput = Console.ReadLine(); ///implicit declaration
 
-bool isUserInputABC = userInput == "ABC";
+//bool isUserInputABC = userInput == "ABC";
 
 
 Console.ReadKey();
