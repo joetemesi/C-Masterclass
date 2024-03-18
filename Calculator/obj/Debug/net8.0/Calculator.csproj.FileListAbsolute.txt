@@ -1,0 +1,15 @@
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Calculator\obj\Debug\net8.0\ref\Calculator.dll

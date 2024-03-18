@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
 using System.Threading.Channels;
 
 Console.WriteLine("Hello, World!");
@@ -39,6 +40,14 @@ void PrintSelectedOption(string selectedOption)
             {
                 Console.WriteLine("Selected Option: " + selectedOption);
             }
+
+//var result = Add(10, 5);
+//Console.WriteLine("10 + 5: " + result);
+
+//int Add(int a, int b)
+//{
+//    return a + b;
+//}
 
 
 //int myNumber = 1;
