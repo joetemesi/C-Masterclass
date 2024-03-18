@@ -1,0 +1,1 @@
+A simple calculator implemented in C# that takes in two inputs and perfoms either addition, subtraction or multiplication operation to produce an output.
