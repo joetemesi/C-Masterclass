@@ -19,20 +19,30 @@ Console.WriteLine("[A]dd");
 Console.WriteLine("[S]ubtract");
 Console.WriteLine("[M]ultiply");
 
-string userOperation = Console.ReadLine();
+string userOperation = Console.ReadLine().ToUpper();
 
 
-if (userOperation == "A" || userOperation == "a")
+//if (userOperation == "A" || userOperation == "a")
+if (userOperation == "A")
 {
-    Console.WriteLine("The result is: " +(num1 + num2));
+    //Console.WriteLine("The result is: " +(num1 + num2));
+    int calculationResult = num1 + num2;
+    Console.WriteLine(resultOfOperation(num1, num2, "+", calculationResult));
 }
-else if(userOperation == "S" || userOperation == "s")
+//else if(userOperation == "S" || userOperation == "s")
+else if(userOperation == "S")
 {
-    Console.WriteLine("The resulit is: " + (num1 - num2));
+    //Console.WriteLine("The resulit is: " + (num1 - num2));
+    int calculationResult = num1 - num2;
+    Console.WriteLine(resultOfOperation(num1, num2, "-", calculationResult));
 }
-else if (userOperation == "M" || userOperation == "m")
+//else if (userOperation == "M" || userOperation == "m")
+else if (userOperation == "M")
 {
-    Console.WriteLine("The result is " + (num1 * num2));
+    //Console.WriteLine("The result is " + (num1 * num2));
+    int calculationResult = num1 * num2;
+    Console.WriteLine(resultOfOperation(num1, num2, "*", calculationResult));
+
     
 }
 else
@@ -40,6 +50,11 @@ else
     Console.WriteLine("Invalid operation, please choose from the options above");
 }
 
+string resultOfOperation (int num1, int num2, string @operator, int calculationResult)
+{
+    string result = string.Concat("The ", "result", " of ", num1, " ", @operator, " ", num2, " ", "=", " ", calculationResult);
+    return result;
+}
  
 Console.ReadKey();
 
