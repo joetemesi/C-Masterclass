@@ -15,26 +15,45 @@ Console.WriteLine("[E]xit");
 //userInput = "ABC\n";
 //Console.WriteLine(userInput);
 
-string userInput = Console.ReadLine();
+string userInput = Console.ReadLine().ToUpper(); //refactor to convert input to upper case
+;
 
-
-if (userInput == "S" || userInput == "s")
+switch (userInput)
 {
-    PrintSelectedOption("See all Todos");
+    case "S":
+        PrintSelectedOption("See all Todos");
+        break;
+    case "A":
+        PrintSelectedOption("Add a Todo"); 
+        break;
+    case "R":
+        PrintSelectedOption("Remove a Todo"); 
+        break;
+    case "E":
+        PrintSelectedOption("Exit"); 
+        break;
+    default: Console.WriteLine("Invalid choice");
+        break;
+
+
 }
+//if (userInput == "S" || userInput == "s")
+//{
+//    PrintSelectedOption("See all Todos");
+//}
     
-else if (userInput == "A" || userInput == "a")
-{
-    PrintSelectedOption("Add a Todo");
-}
-else if(userInput == "R" || userInput == "r")
-{
-    PrintSelectedOption("Remove a Todo");
-}
-if(userInput == "E" || userInput == "e") 
-{
-    PrintSelectedOption("Exit");
-}
+//else if (userInput == "A" || userInput == "a")
+//{
+//    PrintSelectedOption("Add a Todo");
+//}
+//else if(userInput == "R" || userInput == "r")
+//{
+//    PrintSelectedOption("Remove a Todo");
+//}
+//if(userInput == "E" || userInput == "e") 
+//{
+//    PrintSelectedOption("Exit");
+//}
 
 void PrintSelectedOption(string selectedOption)
             {
