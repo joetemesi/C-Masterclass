@@ -1,0 +1,15 @@
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\RepeatCharacters\bin\Debug\net8.0\RepeatCharacters.exe
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\RepeatCharacters\bin\Debug\net8.0\RepeatCharacters.deps.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\RepeatCharacters\bin\Debug\net8.0\RepeatCharacters.runtimeconfig.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\RepeatCharacters\bin\Debug\net8.0\RepeatCharacters.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\RepeatCharacters\bin\Debug\net8.0\RepeatCharacters.pdb
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\RepeatCharacters\obj\Debug\net8.0\RepeatCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\RepeatCharacters\obj\Debug\net8.0\RepeatCharacters.AssemblyInfoInputs.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\RepeatCharacters\obj\Debug\net8.0\RepeatCharacters.AssemblyInfo.cs
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\RepeatCharacters\obj\Debug\net8.0\RepeatCharacters.csproj.CoreCompileInputs.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\RepeatCharacters\obj\Debug\net8.0\RepeatCharacters.sourcelink.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\RepeatCharacters\obj\Debug\net8.0\RepeatCharacters.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\RepeatCharacters\obj\Debug\net8.0\refint\RepeatCharacters.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\RepeatCharacters\obj\Debug\net8.0\RepeatCharacters.pdb
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\RepeatCharacters\obj\Debug\net8.0\RepeatCharacters.genruntimeconfig.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\RepeatCharacters\obj\Debug\net8.0\ref\RepeatCharacters.dll
