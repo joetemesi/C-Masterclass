@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "..\Calculator
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfNumbersBetween", "..\SumOfNumbersBetween\SumOfNumbersBetween.csproj", "{FB14B92E-356F-407C-BB13-411BB5C010C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepeatCharacters", "..\RepeatCharacters\RepeatCharacters.csproj", "{5AD8BD7F-A46C-4059-87DD-641B07F30628}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepeatCharacters", "..\RepeatCharacters\RepeatCharacters.csproj", "{5AD8BD7F-A46C-4059-87DD-641B07F30628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "..\Factorial\Factorial.csproj", "{F35FE448-A287-4A4A-835B-3ABCB3A58DCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5AD8BD7F-A46C-4059-87DD-641B07F30628}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AD8BD7F-A46C-4059-87DD-641B07F30628}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AD8BD7F-A46C-4059-87DD-641B07F30628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35FE448-A287-4A4A-835B-3ABCB3A58DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35FE448-A287-4A4A-835B-3ABCB3A58DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35FE448-A287-4A4A-835B-3ABCB3A58DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35FE448-A287-4A4A-835B-3ABCB3A58DCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

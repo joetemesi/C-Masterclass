@@ -1,0 +1,15 @@
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Factorial\bin\Debug\net8.0\Factorial.exe
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Factorial\bin\Debug\net8.0\Factorial.deps.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Factorial\bin\Debug\net8.0\Factorial.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Factorial\bin\Debug\net8.0\Factorial.pdb
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Factorial\obj\Debug\net8.0\Factorial.sourcelink.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Factorial\obj\Debug\net8.0\Factorial.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Factorial\obj\Debug\net8.0\Factorial.pdb
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\Factorial\obj\Debug\net8.0\ref\Factorial.dll

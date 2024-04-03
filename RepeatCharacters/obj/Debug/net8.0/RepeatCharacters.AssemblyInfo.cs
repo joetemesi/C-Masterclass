@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepeatCharacters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+809c62392f1e101b6d7770b37c6e825515ba52be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepeatCharacters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepeatCharacters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
