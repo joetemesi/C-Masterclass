@@ -1,0 +1,15 @@
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\IsWordPresentInCollection\obj\Debug\net8.0\IsWordPresentInCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\IsWordPresentInCollection\obj\Debug\net8.0\IsWordPresentInCollection.AssemblyInfoInputs.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\IsWordPresentInCollection\obj\Debug\net8.0\IsWordPresentInCollection.AssemblyInfo.cs
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\IsWordPresentInCollection\obj\Debug\net8.0\IsWordPresentInCollection.csproj.CoreCompileInputs.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\IsWordPresentInCollection\obj\Debug\net8.0\IsWordPresentInCollection.sourcelink.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\IsWordPresentInCollection\bin\Debug\net8.0\IsWordPresentInCollection.exe
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\IsWordPresentInCollection\bin\Debug\net8.0\IsWordPresentInCollection.deps.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\IsWordPresentInCollection\bin\Debug\net8.0\IsWordPresentInCollection.runtimeconfig.json
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\IsWordPresentInCollection\bin\Debug\net8.0\IsWordPresentInCollection.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\IsWordPresentInCollection\bin\Debug\net8.0\IsWordPresentInCollection.pdb
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\IsWordPresentInCollection\obj\Debug\net8.0\IsWordPresentInCollection.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\IsWordPresentInCollection\obj\Debug\net8.0\refint\IsWordPresentInCollection.dll
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\IsWordPresentInCollection\obj\Debug\net8.0\IsWordPresentInCollection.pdb
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\IsWordPresentInCollection\obj\Debug\net8.0\IsWordPresentInCollection.genruntimeconfig.cache
+D:\CODE\Programming\C#\Ultimate C# Masterclass for 2024\C# Exercises\C-Sharp-Masterclass\IsWordPresentInCollection\obj\Debug\net8.0\ref\IsWordPresentInCollection.dll
